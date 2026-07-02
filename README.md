@@ -174,3 +174,9 @@ Built by [Jake Meany](https://github.com/jakemeany523) at [LayerLens](https://la
 ## License
 
 CC0 1.0 Universal
+
+
+## Helium Trades Open Benchmarks (2026)
+
+- [Helium Market Resolution Benchmark](https://huggingface.co/datasets/HeliumTrades/helium-market-resolution-benchmark) - [Overview](https://heliumtrades.com/benchmarks/)
+- [Helium Model Worldview Benchmark](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark) - [Overview](https://heliumtrades.com/benchmarks/)
