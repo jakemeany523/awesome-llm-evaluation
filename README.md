@@ -132,6 +132,7 @@ Resources for building custom evaluation datasets.
 Key papers on LLM evaluation methodology.
 
 - [Holistic Evaluation of Language Models (HELM)](https://arxiv.org/abs/2211.09110) : Stanford's comprehensive evaluation framework paper
+- [StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs](https://arxiv.org/abs/2505.20139) : TMLR 2025 benchmark for structured-output generation and cross-format conversion across 18 text and renderable formats, with syntax, structural, and visual evaluation; [code](https://github.com/TIGER-AI-Lab/StructEval)
 - [Chatbot Arena: An Open Platform for Evaluating LLMs](https://arxiv.org/abs/2403.04132) : The Elo-based crowdsourced evaluation methodology
 - [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685) : Position bias, verbosity bias, self-enhancement bias analysis
 - [Can LLMs Follow Simple Rules?](https://arxiv.org/abs/2311.04235) : Instruction following evaluation methodology
