@@ -65,6 +65,7 @@ Benchmarks evaluating autonomous agent capabilities: tool use, multi-step planni
 - **[BFCL v3](https://gorilla.cs.berkeley.edu/leaderboard.html)** : Berkeley Function Calling Leaderboard. Tests structured tool/function calling accuracy.
 - **[BIRD-CRITIC](https://bird-bench.github.io/)** : Database interaction benchmark. Tests SQL generation and result interpretation.
 - **[WebArena](https://webarena.dev)** : Autonomous web browsing and task completion across realistic websites.
+- **[ClawBench](https://github.com/TIGER-AI-Lab/ClawBench)** : Live-web benchmark for everyday online tasks, covering 283 V1+V2 tasks across 163 websites with request interception and multi-layer execution evidence. [Paper](https://arxiv.org/abs/2604.08523) · [Project](https://claw-bench.com)
 - **[OSWorld](https://os-world.github.io)** : Computer use benchmark. Tests ability to operate desktop environments.
 - **[Tau-bench](https://github.com/sierra-research/tau-bench)** : Real-world agent tasks across airline and retail domains.
 - **[ToolBench](https://github.com/OpenBMB/ToolBench)** : API tool usage across 16,000+ real-world APIs.
