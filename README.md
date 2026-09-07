@@ -106,6 +106,7 @@ Open-source tools for building and running your own evaluations.
 - **[promptfoo](https://github.com/promptfoo/promptfoo)** : Test and evaluate LLM outputs. CI/CD integration.
 - **[DeepEval](https://github.com/confident-ai/deepeval)** : Unit testing framework for LLMs with 14+ evaluation metrics.
 - **[ragas](https://github.com/explodinggradients/ragas)** : Evaluation framework focused on RAG pipelines.
+- **[CiteGuard](https://github.com/larrylot/citeguard)** : Local CLI that verifies citations in agent/deep-research Markdown reports (URL resolve, title soft-match, claim–source overlap; offline fixtures; no API keys).
 - **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** : UK AISI's evaluation framework for AI safety.
 
 ## LLM-as-Judge
