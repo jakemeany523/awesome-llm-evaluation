@@ -33,6 +33,7 @@ Platforms that provide infrastructure for running, managing, and analyzing LLM e
 - **[Patronus AI](https://patronus.ai)** : Automated evaluation for LLM applications.
 - **[Galileo](https://rungalileo.io)** : LLM evaluation with purpose-built judge models.
 - **[DeepChecks](https://deepchecks.com)** : Testing and validation for AI systems.
+- **[Noveum](https://noveum.ai)** : AI agent tracing, evaluation datasets from production interactions, and model comparisons.
 
 ## Coding Benchmarks
 
